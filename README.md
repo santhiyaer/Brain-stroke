@@ -22,5 +22,10 @@
 <h1>Application Screenshots</h1>
 <p>The following images showcase the application:</p>
 <p>
-  
+  <img src="screenshots/flow-chart.png" alt="Output 1" width="400">
+  <img src="screenshots/s1.png" alt="Output 2" width="400">
+  <img src="screenshots/s2.png" alt="Output 3" width="400">
+  <img src="screenshots/s3.png" alt="Output 3" width="400">
+  <img src="screenshots/s4.png" alt="Output 3" width="400">
+  <img src="screenshots/s5.png" alt="Output 3" width="400">
 </p>
